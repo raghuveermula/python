@@ -1,0 +1,8 @@
+#!/Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7
+Name = input("What is your name: ")
+dob = input("What is your  date of birth: ")
+age = int(input("Enter your age:" ))
+print(f"{Name} is born on {dob}")
+print(f"{Name} half age is {age/2}")
+
+
